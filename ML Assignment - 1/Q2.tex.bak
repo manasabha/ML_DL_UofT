@@ -1,0 +1,5 @@
+\documentclass[11pt]{article}
+
+\begin{proof}
+loss function = $1/2((y-Xw)superscript T(y-Xw)$
+\end{proof}
